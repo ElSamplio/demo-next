@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            This demo rocks!!!.
+            This demo rocks!!!. This is a new versios
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
